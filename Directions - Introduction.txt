@@ -1,0 +1,7 @@
+You move with the WASD keys, aim with the mouse, press I for the inventory, and you must click and icon in the picture to equip it. 
+Once you click an image, you must the select numbers one through five to assign it. You use it by equipping the item with that number key an cast the spell with the left click.
+Press ESC for the menu, where you can change your controls freely, and quit theg ame. 
+
+There are three levels, a beginning, end, and game over screen.
+
+The story is that you find this book in a random old bookstore, hidden away from sight. The moment you hold onto it, you are pulled to a different dimension and must find a way to escape, else be consumed by the madness within. 

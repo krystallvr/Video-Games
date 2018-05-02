@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Descent Into Madness", "Assembly-CSharp.csproj", "{F3FBA40C-0B92-CA97-AAEF-BF039D59A206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Descent Into Madness", "Assembly-CSharp-Editor.csproj", "{A91C348D-C8B5-1355-2098-7338E54948FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3FBA40C-0B92-CA97-AAEF-BF039D59A206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FBA40C-0B92-CA97-AAEF-BF039D59A206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FBA40C-0B92-CA97-AAEF-BF039D59A206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FBA40C-0B92-CA97-AAEF-BF039D59A206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91C348D-C8B5-1355-2098-7338E54948FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91C348D-C8B5-1355-2098-7338E54948FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91C348D-C8B5-1355-2098-7338E54948FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91C348D-C8B5-1355-2098-7338E54948FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
